@@ -12,3 +12,9 @@ where-are-my-cgroups.sh | show which cgroups are currently mounted |
 oom-killah/limit-me.sh | example session to use the memoryy cgroup |
 oom-killah/watch-dmesg.sh | example session to watch what happens in dmesg live |
 
+## Day 2 
+
+ Filename | Description |
+--------- | -------------
+freezer/hello-there.py | example script that loops and prints a message for the freezer example |
+
